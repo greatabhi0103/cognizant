@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<organisation>
+	
+	<ref>
+		
+		<org_id>220001112</org_id>
+		
+		<alt_sys_cd>GCB</alt_sys_cd>
+		
+		<alt_ref>-DUMMY-</alt_ref>
+	</ref>
+	
+		<general>
+		
+		<name>
+			
+			<value><![CDATA[$CIF_ID$]]></value>
+			
+			<descr><![CDATA[]]></descr>
+		</name>
+		
+	</general>
+	
+	<local_data>
+		
+		<BLDNAMEINC>
+			
+			<value><![CDATA[]]></value>
+			
+			<descr><![CDATA[]]></descr>
+		</BLDNAMEINC>
+		
+		<BLDREFINC>
+			
+			<value><![CDATA[Hinjwadi Phase 1]]></value>
+			
+			<descr><![CDATA[]]></descr>
+		</BLDREFINC>
+		
+		<CDDCD>
+			
+			<value><![CDATA[Oct 30 2000 12:00AM]]></value>
+			
+			<descr><![CDATA[]]></descr>
+		</CDDCD>
+		
+		<CLNTSEG>
+			
+			<value><![CDATA[SBFBE]]></value>
+			
+			<descr><![CDATA[Small Business Finance - Belgium (balance sheet > 400 M)]]></descr>
+		</CLNTSEG>
+		
+		<COUNTRY>
+			
+			<value><![CDATA[IS]]></value>
+			
+			<descr><![CDATA[Iceland]]></descr>
+		</COUNTRY>
+		
+		<COUNTRYINC>
+			
+			<value><![CDATA[IS]]></value>
+			
+			<descr><![CDATA[Iceland]]></descr>
+		</COUNTRYINC>
+		
+		<CRDIC>
+			
+			<value><![CDATA[BCRI]]></value>
+			
+			<descr><![CDATA[Commercial Bank / Credit Institution]]></descr>
+		</CRDIC>
+		
+		<FOUNDATIDT>
+			
+			<value><![CDATA[Oct 30 2000 12:00AM]]></value>
+			
+			<descr><![CDATA[]]></descr>
+		</FOUNDATIDT>
+		
+		<INGRISKRTG>
+			
+			<value><![CDATA[ZN10]]></value>
+			
+			<descr><![CDATA[ZN10]]></descr>
+		</INGRISKRTG>
+		
+		<NAICS1>
+			
+			<value><![CDATA[04101]]></value>
+			
+			<descr><![CDATA[Business Services]]></descr>
+		</NAICS1>
+		
+		<POSTCDINC>
+			
+			<value><![CDATA[1069]]></value>
+			
+			<descr><![CDATA[]]></descr>
+		</POSTCDINC>
+		
+		<STARTDATE>
+			
+			<value><![CDATA[Oct 30 2000 12:00AM]]></value>
+			
+			<descr><![CDATA[]]></descr>
+		</STARTDATE>
+		
+		<STREETINC>
+			
+			<value><![CDATA[Pune]]></value>
+			
+			<descr><![CDATA[]]></descr>
+		</STREETINC>
+		
+		
+		<TOWN>
+			
+			<value><![CDATA[.]]></value>
+			
+			<descr><![CDATA[REYKJAVIK]]></descr>
+		</TOWN>
+		
+		<TOWNINC>
+			
+			<value><![CDATA[.]]></value>
+			
+			<descr><![CDATA[REYKJAVIK]]></descr>
+		</TOWNINC>
+		
+	</local_data>
+	
+	<xref>
+		
+		<PRA>
+			
+			<value><![CDATA[INGBANK1112]]></value>
+			
+			<descr><![CDATA[MAI]]></descr>
+		</PRA>
+		
+		<TRN>
+			
+			<value><![CDATA[IE11112]]></value>
+			
+			<descr><![CDATA[MAI]]></descr>
+		</TRN>
+		
+		<BRN>
+			
+			<value><![CDATA[IE11112]]></value>
+			
+			<descr><![CDATA[MAI]]></descr>
+		</BRN>
+		
+	</xref>
+	
+</organisation>
